@@ -11,6 +11,7 @@ import { CronometroComponent } from './cronometro/cronometro.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ShowCronometroComponent } from './show-cronometro/show-cronometro.component';
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     ConsultarLibrosComponent,
     FiltroLibrosPipe,
     CronometroComponent,
+    ShowCronometroComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "short_name": "test",
+  "name": "PWA Test Consulta de Libros en la Nube",
+  "short_name": "PWA Test",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
